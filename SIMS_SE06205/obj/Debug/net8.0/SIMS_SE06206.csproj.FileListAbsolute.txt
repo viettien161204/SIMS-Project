@@ -1,0 +1,8 @@
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.AssemblyInfo.cs
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.RazorAssemblyInfo.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\SIMS_SE06205\obj\Debug\net8.0\SIMS_SE06206.RazorAssemblyInfo.cs

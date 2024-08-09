@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088181B3-0DFE-43E6-B386-E0E3AFE00CF2}|Test_SIMS_SE06204\\Test_SIMS_SE06204.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\test_sims_se06204\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088181B3-0DFE-43E6-B386-E0E3AFE00CF2}|Test_SIMS_SE06204\\Test_SIMS_SE06204.csproj|solutionrelative:test_sims_se06204\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088181B3-0DFE-43E6-B386-E0E3AFE00CF2}|Test_SIMS_SE06204\\Test_SIMS_SE06204.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\test_sims_se06204\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088181B3-0DFE-43E6-B386-E0E3AFE00CF2}|Test_SIMS_SE06204\\Test_SIMS_SE06204.csproj|solutionrelative:test_sims_se06204\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharp\\data-sims\\data-courses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\course\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|c:\\users\\gigabyte\\downloads\\apdp-btec-main\\apdp-btec-main\\sims_se06205\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB6166CA-4CC9-48E0-9640-409711F67976}|SIMS_SE06205\\SIMS_SE06205.csproj|solutionrelative:sims_se06205\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:44:38.991Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:10:12.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\Test_SIMS_SE06204\\StudentControllerTests.cs",
+              "RelativeDocumentMoniker": "Test_SIMS_SE06204\\StudentControllerTests.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\Test_SIMS_SE06204\\StudentControllerTests.cs",
+              "RelativeToolTip": "Test_SIMS_SE06204\\StudentControllerTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:31:57.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:51:01.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T06:14:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\Test_SIMS_SE06204\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_SIMS_SE06204\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\Test_SIMS_SE06204\\UnitTest1.cs",
+              "RelativeToolTip": "Test_SIMS_SE06204\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:16:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Models\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Models\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:54:20.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:17:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:01:18.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:17:12.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:18:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Update.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Course\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Update.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Course\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T17:45:17.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:29:10.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Add.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Course\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Course\\Add.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Course\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:42:11.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\Student\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T09:03:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:17:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:17:30.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "SIMS_SE06205\\Models\\CourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:03:26.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SIMS_SE06205\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Gigabyte\\Downloads\\APDP-BTec-main\\APDP-BTec-main\\SIMS_SE06205\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SIMS_SE06205\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:18:59.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data-courses.json",
+              "DocumentMoniker": "C:\\CSharp\\data-sims\\data-courses.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\CSharp\\data-sims\\data-courses.json",
+              "ToolTip": "C:\\CSharp\\data-sims\\data-courses.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\CSharp\\data-sims\\data-courses.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T17:38:18.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

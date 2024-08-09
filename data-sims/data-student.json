@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "1",
+    "code": "bh00785",
+    "firstName": "viet",
+    "lastName": "tien",
+    "email": "viettien@gmail.com",
+    "phone": "035656623",
+    "address": "hanoi",
+    "gender": "male",
+    "birthday": "2004"
+  },
+  {
+    "Id": "4",
+    "code": "bh0002",
+    "firstName": "phong",
+    "lastName": "nguyen",
+    "email": "phong@gmail.com",
+    "phone": "0356562234",
+    "address": "HN",
+    "gender": "Male",
+    "birthday": "2004-01-16"
+  },
+  {
+    "Id": "5",
+    "code": "bh0002",
+    "firstName": "duc",
+    "lastName": "truong",
+    "email": "duc@gmail.com",
+    "phone": "012334555",
+    "address": "HCM",
+    "gender": "Female",
+    "birthday": "2005-12-11"
+  },
+  {
+    "Id": "6",
+    "code": "bh0003",
+    "firstName": "minh",
+    "lastName": "pham",
+    "email": "minh@gmail.com",
+    "phone": "0356562234",
+    "address": "HN",
+    "gender": "Male",
+    "birthday": "2004-02-13"
+  }
+]

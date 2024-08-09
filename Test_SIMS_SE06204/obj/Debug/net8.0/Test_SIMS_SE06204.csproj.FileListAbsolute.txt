@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\bin\Debug\net8.0\CoverletSourceRootsMapping_Test_SIMS_SE06204
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\obj\Debug\net8.0\Test_SIMS_SE06204.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\obj\Debug\net8.0\Test_SIMS_SE06204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\obj\Debug\net8.0\Test_SIMS_SE06204.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\obj\Debug\net8.0\Test_SIMS_SE06204.AssemblyInfo.cs
+C:\Users\Gigabyte\Downloads\APDP-BTec-main\APDP-BTec-main\Test_SIMS_SE06204\obj\Debug\net8.0\Test_SIMS_SE06204.csproj.CoreCompileInputs.cache
